@@ -1,0 +1,7 @@
+class: MagnetCreateMessage
+
+fields:
+  x: int
+  y: int
+  text: String
+  color: String

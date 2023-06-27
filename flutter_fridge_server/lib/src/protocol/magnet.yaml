@@ -1,0 +1,11 @@
+class: Magnet
+table: magnet
+
+
+fields:
+  identifier: String
+  x: int
+  y: int
+  color: String
+  text: String
+  createdAt: DateTime

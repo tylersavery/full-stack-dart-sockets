@@ -1,0 +1,6 @@
+class: MagnetUpdateMessage
+
+fields:
+  identifier: String
+  x: int
+  y: int

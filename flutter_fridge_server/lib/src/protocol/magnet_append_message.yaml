@@ -1,0 +1,4 @@
+class: MagnetAppendMessage
+
+fields:
+  magnet: Magnet
